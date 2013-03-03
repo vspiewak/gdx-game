@@ -1,0 +1,4 @@
+*-android/bin
+*-html/war/WEB-INF/classes
+*-desktop/bin
+gdx-game/bin
